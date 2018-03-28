@@ -6,7 +6,7 @@ LibreOffice Basic umgesetzt.
 ## Spiele
 
 ### [Snake](Snake.md)
-![Gameplay](media/snake.mp4)
+![Gameplay Video](media/snake.mp4)
 
 ## Probleme
 
