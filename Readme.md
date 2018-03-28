@@ -5,7 +5,8 @@ LibreOffice Basic umgesetzt.
 
 ## Spiele
 
-- [Snake](Snake.md)
+### [Snake](Snake.md)
+![Gameplay](media/snake.mp4)
 
 ## Probleme
 
@@ -19,4 +20,4 @@ Um zu verhindern, dass der Fokus zwischen den Formularsteuerelementen wechselt,
 lässt man sich zuerst unter **Ansicht**->**Symbolleisten** die **Formular-Steuerelemente**
 Symbolleiste anzeigen. Dort wechselt man dann in dem Entwurfsmodus und stellt bei
 jedem Steuerelement **Fokussieren bei Klick** auf **Nein**.
-![Screenshot](img/focus_on_click.jpg)
+![Screenshot](media/focus_on_click.jpg)
